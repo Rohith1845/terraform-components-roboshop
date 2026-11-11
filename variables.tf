@@ -11,11 +11,11 @@ variable "component" {
 }
 
 variable "zone_id" {
-    default = "Z08295323BHRO8KXCM7P0"
+    default = "Z10245722JW3ZQ971QVAA"
 }
 
 variable "domain_name" {
-    default = "rdaws86s.fun"
+    default = "rohithk.space"
 }
 
 variable "rule_priority" {
